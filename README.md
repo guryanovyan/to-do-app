@@ -7,7 +7,7 @@ Add, delete and store your tasks.
 - Flutter
 - Dart
 
-## Instalation
+## Installation
 
 ### APK Download
 You can download this application in the [Release section](https://github.com/guryanovyan/to-do-app/releases/tag/v1.0.0)
